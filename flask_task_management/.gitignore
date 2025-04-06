@@ -1,1 +1,0 @@
-venv/ pycache/ *.pyc .db .env .env. .idea/ .DS_Store *.log *.sqlite3 *.egg-info/ dist/ build/ *.tar.gz *.egg celerybeat-schedule *.pid
